@@ -7,7 +7,5 @@ public class Main {
         resizableCircle.resize(10);
         System.out.println(resizableCircle.getRadius());
 
-
-
     }
 }
